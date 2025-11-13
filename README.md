@@ -1,6 +1,8 @@
 # TARS-Connect-App
 🛰️ TARS Connect
 
+**🔗 Click here to download 👉🏻[📦 Download TARS Connect APK](https://github.com/scareecodee/TARS-Connect-App/blob/main/TARS_Connect.apk?raw=true)
+
 ### *An Initiative by IIIT Bhubaneswar TARS Society*
 
 **Developer:** *Sundram Kumar*
@@ -39,7 +41,3 @@ To build a **centralized digital ecosystem** for the **IIIT Bhubaneswar TARS Soc
 
 **📱 Developer:** Sundram Kumar
 **🏫 Organization:** IIIT Bhubaneswar TARS Society
-**🔗 Click here to download 👉🏻[📦 Download TARS Connect APK](https://github.com/scareecodee/TARS-Connect-App/blob/main/TARS_Connect.apk?raw=true)
-
-
-
