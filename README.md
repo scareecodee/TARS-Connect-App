@@ -39,7 +39,7 @@ To build a **centralized digital ecosystem** for the **IIIT Bhubaneswar TARS Soc
 
 **📱 Developer:** Sundram Kumar
 **🏫 Organization:** IIIT Bhubaneswar TARS Society
-**🔗 [📦 Download TARS Connect APK](https://github.com/scareecodee/TARS-Connect-App/blob/main/TARS_Connect.apk?raw=true)
+**🔗 Click here to download 👉🏻[📦 Download TARS Connect APK](https://github.com/scareecodee/TARS-Connect-App/blob/main/TARS_Connect.apk?raw=true)
 
 
 
